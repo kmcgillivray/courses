@@ -23,8 +23,7 @@ Reading List:
 * The Kingdom of Dreams and Madness
 * My Neighbor Totoro
 * The Wind Rises
-* Princess Mononoke
-* Shiro Kasamatsu prints
+* Shiro Kasamatsu
 
 ### Perspectives on War and Technology: Japan and Great Britain
 * Nausicaa
@@ -35,13 +34,22 @@ Reading List:
 * The 1923 Japanese earthquake
 
 ### Perspectives on Industrial Design: The World of Objects
-* Kenji Ekuan articles/video
-* The Wind Rises
-* Jiro Horikoshi
-* Jony Ive article
-* Dieter Rams
-* KonMari
-* Great Structures lectures
+
+It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects?
+
+Reading list:
+
+* [The Shape of Things to Come](http://www.newyorker.com/magazine/2015/02/23/shape-things-come)
+* Kenji Ekuan
+  - [The designer of Kikkoman's beautiful, ubiquitous soy sauce bottle has died](http://qz.com/341042/the-designer-of-kikkomans-beautiful-ubiquitous-soy-sauce-bottle-has-died/)
+  - [Kenji Ekuan, Who Gave Soy Sauce Its Graceful Curves, Dies at 85](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0)
+  - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
+  - [Kenji Ekuan Design Philosophy](https://www.youtube.com/playlist?list=PLQ1YKvrLRE8kSDzHVs9XwCwGAmntKbECr)
+* [The Wind Rises](http://amzn.com/B00MHT49KO)
+* [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)
+* [Jiro Horikoshi](http://en.wikipedia.org/wiki/Jiro_Horikoshi)
+* [The Life-Changing Magic of Tidying Up](http://amzn.com/1607747308) – Marie Kondo
+* [Understanding the World's Greatest Structures](http://www.thegreatcourses.com/courses/understanding-the-world-s-greatest-structures-science-and-innovation-from-antiquity-to-modernity.html) (Available on Netflix)
 
 ### Tea
 * Modern Tea
