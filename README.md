@@ -35,7 +35,7 @@ Reading List:
 
 ### Perspectives on Industrial Design: The World of Objects
 
-It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects?
+It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects? What is the relationship between the designer, the designed object, and the people who interact with it?
 
 Reading list:
 
@@ -51,13 +51,17 @@ Reading list:
 * [The Life-Changing Magic of Tidying Up](http://amzn.com/1607747308) – Marie Kondo
 * [Understanding the World's Greatest Structures](http://www.thegreatcourses.com/courses/understanding-the-world-s-greatest-structures-science-and-innovation-from-antiquity-to-modernity.html) (Available on Netflix)
 
-### Tea
-* Modern Tea
-* The Book of Tea
-* Adagio
-* Samovar
-* Tea tasting list
-* Final project: teaguide.co
+### Exploring Tea
+
+Tea is an important cultural, philosophical, and day-to-day influence around the world. This course explores the practical questions of what tea is, the various types, and how and where it's made as well as how tea has infused the world with new ideas about philosophy, religion, and aesthetics.
+
+Reading list:
+
+* [Modern Tea: A Fresh Look at an Ancient Beverage](http://amzn.com/1452112290) – Lisa Richardson
+* [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
+* [Adagio](http://adagio.com)
+* [Samovar](http://www.samovartea.com)
+* Final project: [Tea Guide](http://kevinmcgillivray.net/tea)
 
 ### Web Development with Ruby, Ruby on Rails, and Angular
 * Bloc
