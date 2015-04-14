@@ -61,7 +61,8 @@ Reading list:
 * [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
 * [Adagio](http://adagio.com)
 * [Samovar](http://www.samovartea.com)
-* Final project: [Tea Guide](http://kevinmcgillivray.net/tea)
+
+Final project: [Tea Guide](http://kevinmcgillivray.net/tea)
 
 ### Web Development with Ruby, Ruby on Rails, and Angular
 * Bloc
