@@ -61,6 +61,7 @@ Reading list:
   - [Kenji Ekuan, Who Gave Soy Sauce Its Graceful Curves, Dies at 85](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0)
   - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
   - [Kenji Ekuan Design Philosophy](https://www.youtube.com/playlist?list=PLQ1YKvrLRE8kSDzHVs9XwCwGAmntKbECr)
+* [Japan Design: The Four Seasons in Design](http://amzn.com/0877013276) – Tanaka Ikko, Koike Kazuko
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 * [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)
