@@ -8,9 +8,16 @@ The reading lists are in no particular order. There is also often overlap betwee
 
 If you have your own reading lists or have any questions or comments, let me know on twitter [@kev_mcg](http://twitter.com/kev_mcg) or in the [issues](http://github.com/kmcgillivray/courses/issues) for this repository.
 
+---
+
 ## Summer 2015
 
 ### Care and Quality: A Philosophy for Creativity
+
+* Zen and the Art of Motorcycle Maintenance
+* Julie Zhuo article
+* Hack the Cover – Craig Mod
+* Jony Ive video
 
 ### The Free Web
 
