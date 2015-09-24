@@ -8,13 +8,40 @@ The reading lists are in no particular order. There is also often overlap betwee
 
 If you have your own reading lists or have any questions or comments, let me know on twitter [@kev_mcg](http://twitter.com/kev_mcg) or in the [issues](http://github.com/kmcgillivray/courses/issues) for this repository.
 
+## Summer 2015
+
+### Care and Quality: A Philosophy for Creativity
+
+### The Free Web
+
+The World Wide Web is changing quickly. Nostalgia for the early days of the Internet and questions about the future freedom of information online are growing. What is the web today? How has it changed? What should it have been? What should it be in the future?
+
+* Indie Web Camp
+* The Web We Have to Save – Hossein Derakhshan
+* [Web! What is it good for?](https://adactio.com/journal/9016) – Jeremy Keith
+* [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) – Maciej Cegłowski
+* All you need is publish – Craig Mod
+
+### Food and Mindfulness
+
+The human experience of food ranges from bland, unmemorable meals to sublime, life-changing bites. The course explores the relationship between food and the care and attention we give to it.
+
+* Chef's Table
+* Headspace
+* Acanto
+
+### Logic and Magic: The Human Superpowers
+
+Logic and intuition are the two human superpowers that combine to create a third superpower: creativity. This course will explore how these two modes of thinking play out practically in the creative process and historically in the progress of human ingenuity.
+
+* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
+* [The Brand Gap](http://amzn.com/0321348109) – Marty Neumeier
+
 ## Spring 2015
 
 ### Artificial Intelligence, Technology, and Innovation
 
 With rumors of the technological singularity floating around, this course explores a question: are we the originators of technology, or is technology its own entity evolving through us?
-
-Reading List:
 
 * [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
@@ -29,8 +56,6 @@ Reading List:
 
 Using two major heroines as a starting point, Nausicaa and Korra, this course explores the structure and common themes of Japanese manga and anime, comparing and contrasting with Greek epic poetry. It also explores the influence of 20th century Japanese printmaking on anime and manga art styles.
 
-Reading list:
-
 * [The Legend of Korra](http://www.amazon.com/The-Legend-Korra-Book-One/dp/B009LDCUP0)
 * [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
 * [The Kingdom of Dreams and Madness](http://www.amazon.com/Kingdom-Dreams-Madness-English-Subtitled/dp/B00PEJ1948) (Available on Netflix)
@@ -41,7 +66,7 @@ Reading list:
 
 ### War and Technology: Japan and Great Britain after World War II
 
-The aftermath of World War II meant many changes around the world. This course explores a small segment currents of change felt in Japan and Great Britain after the war. It also explores the role of technology and design in war, real and imagined.
+The aftermath of World War II meant many changes around the world. This course explores a small segment of currents of change felt in Japan and Great Britain after the war. It also explores the role of technology and design in war, real and imagined.
 
 * [The Remains of the Day](http://amzn.com/0679731725) – Kazuo Ishiguro
 * [The Wind Rises](http://amzn.com/B00MHT49KO)
@@ -53,8 +78,6 @@ The aftermath of World War II meant many changes around the world. This course e
 
 It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects? What is the relationship between the designer, the designed object, and the people who interact with it? This course focuses especially on Japanese design.
 
-Reading list:
-
 * [The Shape of Things to Come](http://www.newyorker.com/magazine/2015/02/23/shape-things-come)
 * Kenji Ekuan
   - [The designer of Kikkoman's beautiful, ubiquitous soy sauce bottle has died](http://qz.com/341042/the-designer-of-kikkomans-beautiful-ubiquitous-soy-sauce-bottle-has-died/)
@@ -62,6 +85,7 @@ Reading list:
   - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
   - [Kenji Ekuan Design Philosophy](https://www.youtube.com/playlist?list=PLQ1YKvrLRE8kSDzHVs9XwCwGAmntKbECr)
 * [Japan Design: The Four Seasons in Design](http://amzn.com/0877013276) – Tanaka Ikko, Koike Kazuko
+* [Designing Design](http://amzn.com/3037784504) – Kenya Hara
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 * [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)
@@ -73,8 +97,6 @@ Reading list:
 
 Tea is an essential cultural, philosophical, and daily influence around the world. This course explores the practical questions of what tea is, the various types, and how and where it's made as well as how tea has infused the world with new ideas about philosophy, religion, and aesthetics.
 
-Reading list:
-
 * [Modern Tea: A Fresh Look at an Ancient Beverage](http://amzn.com/1452112290) – Lisa Richardson
 * [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
 * [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
@@ -84,11 +106,3 @@ Reading list:
 * [Samovar](http://www.samovartea.com)
 
 Final project: [Tea Guide](http://kevinmcgillivray.net/tea)
-
-### Web Development with Ruby, Ruby on Rails, and Angular
-
-I learned a lot of web development related stuff this spring. Here are a few of the tutorials and other resources I used.
-
-* [Bloc](http://bloc.io)
-* [Blogger 2 Rails Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
-* [Egghead.io AngularJS Lessons](https://egghead.io/technologies/angularjs)
