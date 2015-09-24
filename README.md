@@ -18,8 +18,8 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 
 * [Indie Web Camp](https://indiewebcamp.com)
 * [The Web We Have to Save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
-* [Web! What is it good for?](https://adactio.com/journal/9016) – Jeremy Keith
-* [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) – Maciej Cegłowski
+* [Web! What is it good for?](https://adactio.com/journal/9016)
+* [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
 * [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
 
 ### Food and Mindfulness
