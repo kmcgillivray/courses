@@ -38,21 +38,22 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 * Hack the Cover – Craig Mod
 * Jony Ive video
 
-### Logic and Magic: The Human Superpowers
+### Logic and Intuition: The Human Superpowers
 
-Logic and intuition are the two human superpowers that combine to create a third superpower: creativity. This course will explore how these two modes of thinking play out practically in the creative process and historically in the progress of human ingenuity.
+Logic and intuition are the two human superpowers that combine to create a third superpower: creativity. This course will explore how these two modes of thinking play out practically in the creative process and historically in the progress of human ingenuity. It will also argue that combining these two skills is an evergreen theme in humanity's search for meaning, and an essential step in unlocking the full potential of human creativity.
 
 * Zen and the Art of Motorcycle Maintenance
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
 * [The Brand Gap](http://amzn.com/0321348109) – Marty Neumeier
 * Flow
 * Thinking Fast and Thinking Slow
+* [Dionysos Unmasked: Ancient Sculpture and Early Prints](http://www.artic.edu/exhibition/dionysos-unmasked-ancient-sculpture-and-early-prints)
 
 ## Spring 2015
 
 ### Artificial Intelligence, Technology, and Innovation
 
-With rumors of the technological singularity floating around, this course explores a question: are we the originators of technology working with technology in symbiosis, or is technology its own entity evolving through us?
+With rumors of the technological singularity floating around, this course explores two questions: Are we the originators of technology, or is technology its own entity evolving through us? And, if the future belongs to those who know how to best collaborate with machines, how can we improve our symbiosis with technology to allow it to augment our own abilities?
 
 * [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
