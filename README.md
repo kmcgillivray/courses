@@ -88,7 +88,7 @@ It's easy to take for granted the objects in our lives. What makes a high qualit
 
 * [The Shape of Things to Come](http://www.newyorker.com/magazine/2015/02/23/shape-things-come)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
-* Kenji Ekuan
+* [Kenji Ekuan](https://en.wikipedia.org/wiki/Kenji_Ekuan)
   - [The designer of Kikkoman's beautiful, ubiquitous soy sauce bottle has died](http://qz.com/341042/the-designer-of-kikkomans-beautiful-ubiquitous-soy-sauce-bottle-has-died/)
   - [Kenji Ekuan, Who Gave Soy Sauce Its Graceful Curves, Dies at 85](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0)
   - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
