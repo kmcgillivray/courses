@@ -107,8 +107,8 @@ Tea is an essential cultural, philosophical, and daily influence around the worl
 
 * [Modern Tea: A Fresh Look at an Ancient Beverage](http://amzn.com/1452112290) – Lisa Richardson
 * [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
-* [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
 * [Tea Tuesdays](http://www.npr.org/tags/388738261/tea-tuesdays)
+  - [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 * [Adagio](http://adagio.com)
 * [Samovar](http://www.samovartea.com)
