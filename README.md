@@ -36,6 +36,7 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 * Chef's Table
 * Headspace
 * Acanto
+* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 
 ### Logic and Magic: The Human Superpowers
 
@@ -86,18 +87,18 @@ The aftermath of World War II meant many changes around the world. This course e
 It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects? What is the relationship between the designer, the designed object, and the people who interact with it? This course focuses especially on Japanese design.
 
 * [The Shape of Things to Come](http://www.newyorker.com/magazine/2015/02/23/shape-things-come)
+* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 * Kenji Ekuan
   - [The designer of Kikkoman's beautiful, ubiquitous soy sauce bottle has died](http://qz.com/341042/the-designer-of-kikkomans-beautiful-ubiquitous-soy-sauce-bottle-has-died/)
   - [Kenji Ekuan, Who Gave Soy Sauce Its Graceful Curves, Dies at 85](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0)
   - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
   - [Kenji Ekuan Design Philosophy](https://www.youtube.com/playlist?list=PLQ1YKvrLRE8kSDzHVs9XwCwGAmntKbECr)
-* [Japan Design: The Four Seasons in Design](http://amzn.com/0877013276) – Tanaka Ikko, Koike Kazuko
-* [Designing Design](http://amzn.com/3037784504) – Kenya Hara
-* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
-* [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)
 * [Jiro Horikoshi](http://en.wikipedia.org/wiki/Jiro_Horikoshi)
+* [Japan Design: The Four Seasons in Design](http://amzn.com/0877013276) – Tanaka Ikko, Koike Kazuko
+* [Designing Design](http://amzn.com/3037784504) – Kenya Hara
 * [The Life-Changing Magic of Tidying Up](http://amzn.com/1607747308) – Marie Kondo
+* [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Understanding the World's Greatest Structures](http://www.thegreatcourses.com/courses/understanding-the-world-s-greatest-structures-science-and-innovation-from-antiquity-to-modernity.html) (Available on Netflix)
 
 ### Exploring Tea
