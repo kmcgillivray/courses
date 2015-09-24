@@ -16,37 +16,39 @@ If you have your own reading lists or have any questions or comments, let me kno
 
 The World Wide Web is changing quickly. Nostalgia for the early days of the Internet and questions about the future freedom of information online are growing. What is the web today? How has it changed? What should it have been? What should it be in the future?
 
-* Indie Web Camp
-* The Web We Have to Save – Hossein Derakhshan
+* [Indie Web Camp](https://indiewebcamp.com)
+* [The Web We Have to Save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
 * [Web! What is it good for?](https://adactio.com/journal/9016) – Jeremy Keith
 * [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm) – Maciej Cegłowski
-* All you need is publish – Craig Mod
+* [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
 
 ### Food and Mindfulness
 
 The human experience of food ranges from bland, unmemorable meals to sublime, life-changing bites. The course explores the relationship between food and the care and attention we give to it.
 
-* Chef's Table
+* [Chef's Table](https://en.wikipedia.org/wiki/Chef%27s_Table)
+* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
 * Headspace
-* Acanto
+* [Acanto](http://www.acantochicago.com)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 
 ### Care and Quality: A Philosophy for Creativity
 
-* Zen and the Art of Motorcycle Maintenance
-* Julie Zhuo article
-* Hack the Cover – Craig Mod
-* Jony Ive video
+* [Zen and the Art of Motorcycle Maintenance](http://amzn.com/0060589469) – Robert Pirsig
+* [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553)
+* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
+* [Hack the Cover](http://craigmod.com/journal/hack_the_cover/)
+* [Jony Ive and Marc Newson](http://www.hulu.com/watch/563008)
 
 ### Logic and Intuition: The Human Superpowers
 
 Logic and intuition are the two human superpowers that combine to create a third superpower: creativity. This course will explore how these two modes of thinking play out practically in the creative process and historically in the progress of human ingenuity. It will also argue that combining these two skills is an evergreen theme in humanity's search for meaning, and an essential step in unlocking the full potential of human creativity.
 
-* Zen and the Art of Motorcycle Maintenance
+* [Zen and the Art of Motorcycle Maintenance](http://amzn.com/0060589469) – Robert Pirsig
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
 * [The Brand Gap](http://amzn.com/0321348109) – Marty Neumeier
-* Flow
-* Thinking Fast and Thinking Slow
+* [Flow: The Psychology of Optimal Experience](http://amzn.com/0061339202) – Mihaly Csikszentmihalyi
+* [Thinking, Fast and Slow](http://amzn.com/0374533555) – Daniel Kahneman
 * [Dionysos Unmasked: Ancient Sculpture and Early Prints](http://www.artic.edu/exhibition/dionysos-unmasked-ancient-sculpture-and-early-prints)
 
 ## Spring 2015
