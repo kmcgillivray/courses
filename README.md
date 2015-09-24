@@ -51,6 +51,8 @@ Logic and intuition are the two human superpowers that combine to create a third
 * [Thinking, Fast and Slow](http://amzn.com/0374533555) – Daniel Kahneman
 * [Dionysos Unmasked: Ancient Sculpture and Early Prints](http://www.artic.edu/exhibition/dionysos-unmasked-ancient-sculpture-and-early-prints)
 
+---
+
 ## Spring 2015
 
 ### Artificial Intelligence, Technology, and Innovation
