@@ -23,6 +23,8 @@ If you have your own reading lists or have any questions or comments, let me kno
 * The Personal MBA – Josh Kaufman
 * [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
 
+---
+
 ## Summer 2015
 
 ### The Free Web
