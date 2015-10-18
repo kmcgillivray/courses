@@ -10,6 +10,19 @@ If you have your own reading lists or have any questions or comments, let me kno
 
 ---
 
+## Fall 2015
+
+### Practical Creativity: Getting Work Done
+
+* The War of Art – Steven Pressfield
+* If You Can Talk, You Can Write – Joel Saltzman
+* [I'm Ira Glass, Host of This American Life, and This Is How I Work](http://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031)
+
+### New Education: Self-Education and Lifelong Learning
+
+* The Personal MBA – Josh Kaufman
+* [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
+
 ## Summer 2015
 
 ### The Free Web
@@ -21,6 +34,7 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [Web! What is it good for?](https://adactio.com/journal/9016)
 * [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
 * [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
+* [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 
 ### Food and Mindfulness
 
@@ -31,13 +45,15 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 * Headspace
 * [Acanto](http://www.acantochicago.com)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
+* [Written Recipes Undergo a Makeover](http://www.nytimes.com/2015/10/14/dining/written-recipes-undergo-a-makeover.html)
 
 ### Care and Quality: A Philosophy for Creativity
 
 * [Zen and the Art of Motorcycle Maintenance](http://amzn.com/0060589469) – Robert Pirsig
 * [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553)
-* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
 * [Hack the Cover](http://craigmod.com/journal/hack_the_cover/)
+* [Let's Talk about Margins](https://medium.com/message/lets-talk-about-margins-14646574c385)
+* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
 * [Jony Ive and Marc Newson](http://www.hulu.com/watch/563008)
 
 ### Logic and Intuition: The Human Superpowers
