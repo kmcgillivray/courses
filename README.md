@@ -48,6 +48,7 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 * [Acanto](http://www.acantochicago.com)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
 * [Written Recipes Undergo a Makeover](http://www.nytimes.com/2015/10/14/dining/written-recipes-undergo-a-makeover.html)
+* [Jeong Kwan, the Philosopher Chef](http://www.nytimes.com/2015/10/16/t-magazine/jeong-kwan-the-philosopher-chef.html?_r=0)
 
 ### Care and Quality: A Philosophy for Creativity
 
