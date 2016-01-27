@@ -78,14 +78,16 @@ Logic and intuition are the two human superpowers that combine to create a third
 
 With rumors of the technological singularity floating around, this course explores two questions: Are we the originators of technology, or is technology its own entity evolving through us? And, if the future belongs to those who know how to best collaborate with machines, how can we improve our symbiosis with technology to allow it to augment our own abilities?
 
-* [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
-* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
-* [The Imitation Game](http://en.wikipedia.org/wiki/The_Imitation_Game)
-* [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
+* [Don't Worry, Smart Machines Will Take Us With Them](http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them)
+* [The Doomsday Invention](http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom)
 * [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 * [The A.I. Wars?](http://www.slate.com/articles/technology/future_tense/2015/01/what_artificial_intelligence_does_and_does_not_mean_for_security_and_geopolitics.html)
 * [Internet-Connected Sheep and the New Roaming Wireless](http://www.theatlantic.com/technology/archive/2015/02/internet-connected-sheep-and-the-new-roaming-wireless/385274/)
 * [Are we smart enough to control artificial intelligence?](http://www.technologyreview.com/review/534871/our-fear-of-artificial-intelligence/)
+* [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
+* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
+* [The Imitation Game](http://en.wikipedia.org/wiki/The_Imitation_Game)
+* [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
 
 ### Nausicaa and Korra: Themes in Anime and Manga from Homer to Kasamatsu to Miyazaki
 
