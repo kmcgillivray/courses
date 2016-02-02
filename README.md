@@ -37,6 +37,7 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
 * [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+* [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/)
 
 ### Food and Mindfulness
 
