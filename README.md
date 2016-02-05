@@ -8,6 +8,14 @@ The reading lists are grouped into related categories. There is also often overl
 
 If you have your own reading lists or have any questions or comments, let me know on twitter [@kev_mcg](http://twitter.com/kev_mcg) or in the [issues](http://github.com/kmcgillivray/courses/issues) for this repository.
 
+## Table of Contents
+
+* [Web Development and Computer Science](#web-development-and-computer-science)
+* [Creativity and Education](#creativity-and-education)
+* [Food and Culture](#food-and-culture)
+* [Literature and History](#literature-and-history)
+* [Design](#design)
+
 ---
 
 ## Web Development and Computer Science
@@ -38,8 +46,6 @@ With rumors of the technological singularity floating around, this course explor
 * [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
 * [The Imitation Game](http://en.wikipedia.org/wiki/The_Imitation_Game)
 * [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
-
----
 
 ## Creativity and Education
 
@@ -74,8 +80,6 @@ Logic and intuition are the two human superpowers that combine to create a third
 * The Personal MBA – Josh Kaufman
 * [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
 
----
-
 ## Food and Culture
 
 ### Food and Mindfulness
@@ -106,8 +110,6 @@ Tea is an essential cultural, philosophical, and daily influence around the worl
 
 Final project: [Tea Guide](http://teaguide.co)
 
----
-
 ## Literature and History
 
 ### Nausicaa and Korra: Themes in Anime and Manga from Homer to Kasamatsu to Miyazaki
@@ -131,8 +133,6 @@ The aftermath of World War II meant many changes around the world. This course e
 * [Kenji Ekuan](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0) – Motivated to become a "creator of things" after seeing the complete material destruction caused by the atomic bomb in Hiroshima. “Faced with that nothingness, I felt a great nostalgia for human culture,” he told The New York Times in 2012. “I needed something to touch, to look at. Right then I decided to be a maker of things.”
 * [Pacifism in Japan after WWII](http://en.wikipedia.org/wiki/Article_9_of_the_Japanese_Constitution)
 * [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
-
----
 
 ## Design
 
