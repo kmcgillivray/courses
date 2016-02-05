@@ -79,6 +79,8 @@ Logic and intuition are the two human superpowers that combine to create a third
 
 * The Personal MBA – Josh Kaufman
 * [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
+* [What Is The Value Of An Education In The Humanities?](http://www.npr.org/sections/13.7/2016/02/02/465239105/what-is-the-value-of-an-education-in-the-humanities)
+* [Only Connect](http://www.williamcronon.net/writing/Cronon_Only_Connect.pdf)
 
 ## Food and Culture
 
