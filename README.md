@@ -2,30 +2,15 @@
 
 I like to look for patterns and connections between the things I'm reading, watching, listening to, and thinking about and give the themes that I notice crazy fake "course" names like the ones below. Learning can sometimes feel like an ever-expanding web of connected ideas and thoughts, so giving them a name helps me keep the connections somewhat organized. It also helps me look for more things on similar topics so that I can keep exploring in an interesting direction once I've found one.
 
-The process tends to go like this: I read, watch lectures, go to museums, etc., but as I do so I try to look for common themes or threads that connect the different things I'm exploring. Once something becomes clear, I'll make a note of it, and give it a "course" name. I also sometimes have a final project to go with a course.
+The process tends to go like this: I read, watch lectures, go to museums, listen to music, etc., but as I do so I try to look for common themes or threads that connect the different things I'm exploring. Once something becomes clear, I'll make a note of it, and give it a "course" name. I also sometimes have a project or two to go with a course.
 
-The reading lists are in no particular order. There is also often overlap between different courses as they look at the same works from different perspectives.
+The reading lists are grouped into related categories. There is also often overlap between different courses as they look at the same works from different perspectives.
 
 If you have your own reading lists or have any questions or comments, let me know on twitter [@kev_mcg](http://twitter.com/kev_mcg) or in the [issues](http://github.com/kmcgillivray/courses/issues) for this repository.
 
 ---
 
-## Fall 2015
-
-### Practical Creativity: Getting Work Done
-
-* The War of Art – Steven Pressfield
-* If You Can Talk, You Can Write – Joel Saltzman
-* [I'm Ira Glass, Host of This American Life, and This Is How I Work](http://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031)
-
-### New Education: Self-Education and Lifelong Learning
-
-* The Personal MBA – Josh Kaufman
-* [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
-
----
-
-## Summer 2015
+## Web Development and Computer Science
 
 ### The Free Web
 
@@ -39,17 +24,24 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 * [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/)
 
-### Food and Mindfulness
+### Artificial Intelligence, Technology, and Innovation
 
-The human experience of food ranges from bland, unmemorable meals to sublime, life-changing bites. The course explores the relationship between food and the care and attention we give to it.
+With rumors of the technological singularity floating around, this course explores two questions: Are we the originators of technology, or is technology its own entity evolving through us? And, if the future belongs to those who know how to best collaborate with machines, how can we improve our symbiosis with technology to allow it to augment our own abilities?
 
-* [Chef's Table](https://en.wikipedia.org/wiki/Chef%27s_Table)
-* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
-* Headspace
-* [Acanto](http://www.acantochicago.com)
-* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
-* [Written Recipes Undergo a Makeover](http://www.nytimes.com/2015/10/14/dining/written-recipes-undergo-a-makeover.html)
-* [Jeong Kwan, the Philosopher Chef](http://www.nytimes.com/2015/10/16/t-magazine/jeong-kwan-the-philosopher-chef.html?_r=0)
+* [Don't Worry, Smart Machines Will Take Us With Them](http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them)
+* [The Doomsday Invention](http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom)
+* [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+* [The A.I. Wars?](http://www.slate.com/articles/technology/future_tense/2015/01/what_artificial_intelligence_does_and_does_not_mean_for_security_and_geopolitics.html)
+* [Internet-Connected Sheep and the New Roaming Wireless](http://www.theatlantic.com/technology/archive/2015/02/internet-connected-sheep-and-the-new-roaming-wireless/385274/)
+* [Are we smart enough to control artificial intelligence?](http://www.technologyreview.com/review/534871/our-fear-of-artificial-intelligence/)
+* [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
+* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
+* [The Imitation Game](http://en.wikipedia.org/wiki/The_Imitation_Game)
+* [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
+
+---
+
+## Creativity and Education
 
 ### Care and Quality: A Philosophy for Creativity
 
@@ -71,24 +63,52 @@ Logic and intuition are the two human superpowers that combine to create a third
 * [Thinking, Fast and Slow](http://amzn.com/0374533555) – Daniel Kahneman
 * [Dionysos Unmasked: Ancient Sculpture and Early Prints](http://www.artic.edu/exhibition/dionysos-unmasked-ancient-sculpture-and-early-prints)
 
+### Practical Creativity: Getting Work Done
+
+* The War of Art – Steven Pressfield
+* If You Can Talk, You Can Write – Joel Saltzman
+* [I'm Ira Glass, Host of This American Life, and This Is How I Work](http://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031)
+
+### New Education: Self-Education and Lifelong Learning
+
+* The Personal MBA – Josh Kaufman
+* [The Six-Lesson Schoolteacher](http://www.cantrip.org/gatto.html)
+
 ---
 
-## Spring 2015
+## Food and Culture
 
-### Artificial Intelligence, Technology, and Innovation
+### Food and Mindfulness
 
-With rumors of the technological singularity floating around, this course explores two questions: Are we the originators of technology, or is technology its own entity evolving through us? And, if the future belongs to those who know how to best collaborate with machines, how can we improve our symbiosis with technology to allow it to augment our own abilities?
+The human experience of food ranges from bland, unmemorable meals to sublime, life-changing bites. The course explores the relationship between food and the care and attention we give to it.
 
-* [Don't Worry, Smart Machines Will Take Us With Them](http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them)
-* [The Doomsday Invention](http://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom)
-* [The AI Revolution: The Road to Superintelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-* [The A.I. Wars?](http://www.slate.com/articles/technology/future_tense/2015/01/what_artificial_intelligence_does_and_does_not_mean_for_security_and_geopolitics.html)
-* [Internet-Connected Sheep and the New Roaming Wireless](http://www.theatlantic.com/technology/archive/2015/02/internet-connected-sheep-and-the-new-roaming-wireless/385274/)
-* [Are we smart enough to control artificial intelligence?](http://www.technologyreview.com/review/534871/our-fear-of-artificial-intelligence/)
-* [How We Got to Now: Six Innovations that Made the Modern World](http://amzn.com/1594632960) – Steven Johnson
-* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
-* [The Imitation Game](http://en.wikipedia.org/wiki/The_Imitation_Game)
-* [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
+* [Chef's Table](https://en.wikipedia.org/wiki/Chef%27s_Table)
+* [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
+* Headspace
+* [Acanto](http://www.acantochicago.com)
+* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
+* [Written Recipes Undergo a Makeover](http://www.nytimes.com/2015/10/14/dining/written-recipes-undergo-a-makeover.html)
+* [Jeong Kwan, the Philosopher Chef](http://www.nytimes.com/2015/10/16/t-magazine/jeong-kwan-the-philosopher-chef.html?_r=0)
+
+### Exploring Tea
+
+Tea is an essential cultural, philosophical, and daily influence around the world. This course explores the practical questions of what tea is, the various types, and how and where it's made as well as how tea has infused the world with new ideas about philosophy, religion, and aesthetics.
+
+* [Modern Tea: A Fresh Look at an Ancient Beverage](http://amzn.com/1452112290) – Lisa Richardson
+* [Tea – History, Terroirs, Varieties](http://amzn.com/1770853197) – The Camellia Sinensis Tea House
+* [Chado – The Japanese Way of Tea](http://amzn.com/0834815184) – Soshitsu Sen
+* [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
+* [Tea Tuesdays](http://www.npr.org/tags/388738261/tea-tuesdays)
+  - [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
+* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
+* [Adagio](http://adagio.com)
+* [Samovar](http://www.samovartea.com)
+
+Final project: [Tea Guide](http://teaguide.co)
+
+---
+
+## Literature and History
 
 ### Nausicaa and Korra: Themes in Anime and Manga from Homer to Kasamatsu to Miyazaki
 
@@ -112,6 +132,10 @@ The aftermath of World War II meant many changes around the world. This course e
 * [Pacifism in Japan after WWII](http://en.wikipedia.org/wiki/Article_9_of_the_Japanese_Constitution)
 * [Nausicaa of the Valley of the Wind](http://amzn.com/1421550644) – Hayao Miyazaki
 
+---
+
+## Design
+
 ### Perspectives on Industrial Design: The World of Objects
 
 It's easy to take for granted the objects in our lives. What makes a high quality object and a low quality object? How does our relationship with objects influence our lives? What cultural differences exist in how people relate to objects? What ideas guide the people who design these objects? What is the relationship between the designer, the designed object, and the people who interact with it? This course focuses especially on Japanese design.
@@ -130,17 +154,3 @@ It's easy to take for granted the objects in our lives. What makes a high qualit
 * [The Life-Changing Magic of Tidying Up](http://amzn.com/1607747308) – Marie Kondo
 * [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Understanding the World's Greatest Structures](http://www.thegreatcourses.com/courses/understanding-the-world-s-greatest-structures-science-and-innovation-from-antiquity-to-modernity.html) (Available on Netflix)
-
-### Exploring Tea
-
-Tea is an essential cultural, philosophical, and daily influence around the world. This course explores the practical questions of what tea is, the various types, and how and where it's made as well as how tea has infused the world with new ideas about philosophy, religion, and aesthetics.
-
-* [Modern Tea: A Fresh Look at an Ancient Beverage](http://amzn.com/1452112290) – Lisa Richardson
-* [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
-* [Tea Tuesdays](http://www.npr.org/tags/388738261/tea-tuesdays)
-  - [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
-* [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
-* [Adagio](http://adagio.com)
-* [Samovar](http://www.samovartea.com)
-
-Final project: [Tea Guide](http://kevinmcgillivray.net/tea)
