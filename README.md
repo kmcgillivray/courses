@@ -32,6 +32,15 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 * [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/)
 
+### Web Development: History and Philosophy
+
+The web is a field defined by the ideas and values of those who create it. This course explores the history of thought that has shaped the web and the philosophical debates visible in the design of the network, and connects those ideas to both the overall architects of the web and the day-to-day practitioners who define web culture through their words and code.
+
+* [Web! What is it good for?](https://adactio.com/journal/9016)
+* [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [A Dao of Web Design](http://alistapart.com/article/dao)
+* [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+
 ### Artificial Intelligence, Technology, and Innovation
 
 With rumors of the technological singularity floating around, this course explores two questions: Are we the originators of technology, or is technology its own entity evolving through us? And, if the future belongs to those who know how to best collaborate with machines, how can we improve our symbiosis with technology to allow it to augment our own abilities?
