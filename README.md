@@ -15,6 +15,7 @@ If you have your own reading lists or have any questions or comments, let me kno
 * [Food and Culture](#food-and-culture)
 * [Literature and History](#literature-and-history)
 * [Design](#design)
+* [Vocation and Personal Development](#vocation-and-personal-development)
 
 ---
 
@@ -77,12 +78,14 @@ Logic and intuition are the two human superpowers that combine to create a third
 * [Flow: The Psychology of Optimal Experience](http://amzn.com/0061339202) – Mihaly Csikszentmihalyi
 * [Thinking, Fast and Slow](http://amzn.com/0374533555) – Daniel Kahneman
 * [Dionysos Unmasked: Ancient Sculpture and Early Prints](http://www.artic.edu/exhibition/dionysos-unmasked-ancient-sculpture-and-early-prints)
+* [Visions of Harmony](https://itunes.apple.com/us/post/idsa.ee122821-3e4d-11e6-8d13-b0eee39c0fee)
 
 ### Practical Creativity: Getting Work Done
 
 * The War of Art – Steven Pressfield
 * If You Can Talk, You Can Write – Joel Saltzman
 * [I'm Ira Glass, Host of This American Life, and This Is How I Work](http://lifehacker.com/im-ira-glass-host-of-this-american-life-and-this-is-h-1609562031)
+* [I'm Justin Rosenstein, Co-Founder of Asana, and This Is How I Work](http://lifehacker.com/im-justin-rosenstein-co-founder-of-asana-and-this-is-1783969267)
 
 ### New Education: Self-Education and Lifelong Learning
 
@@ -99,6 +102,7 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 
 * [Chef's Table](https://en.wikipedia.org/wiki/Chef%27s_Table)
 * [Jiro Dreams of Sushi](https://en.wikipedia.org/wiki/Jiro_Dreams_of_Sushi)
+* [Cooked](http://www.imdb.com/title/tt5347906/)
 * Headspace
 * [Acanto](http://www.acantochicago.com)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
@@ -114,6 +118,7 @@ Tea is an essential cultural, philosophical, and daily influence around the worl
 * [Tea – History, Terroirs, Varieties](http://amzn.com/1770853197) – The Camellia Sinensis Tea House
 * [Chado – The Japanese Way of Tea](http://amzn.com/0834815184) – Soshitsu Sen
 * [The Book of Tea](http://www.thriftbooks.com/w/the-book-of-tea_kakuz-okakura/396218/) – Kakuzo Okakura
+* [Japan Spirit and Form: Japanese Tea Bowls](https://youtu.be/pSP6Ec7kJbo)
 * [Tea Tuesdays](http://www.npr.org/tags/388738261/tea-tuesdays)
   - [How Tea and Sugar Reshaped the British Empire](http://www.npr.org/blogs/thesalt/2015/04/07/396664685/tea-tuesdays-how-tea-sugar-reshaped-the-british-empire)
 * [A Precise Imprecision: The design and aesthetics behind Japanese cuisine](https://medium.com/re-form/a-precise-imprecision-6905c579819d)
@@ -160,6 +165,7 @@ It's easy to take for granted the objects in our lives. What makes a high qualit
   - [Kenji Ekuan, Who Gave Soy Sauce Its Graceful Curves, Dies at 85](http://www.nytimes.com/2015/02/11/world/asia/kenji-ekuan-japanese-designer-who-gave-soy-sauce-its-curves-dies-at-85.html?_r=0)
   - [Interview with Hall of Fame contributing writer Kenji Ekuan](http://en.red-dot.org/2404.html)
   - [Kenji Ekuan Design Philosophy](https://www.youtube.com/playlist?list=PLQ1YKvrLRE8kSDzHVs9XwCwGAmntKbECr)
+* [Japan Spirit and Form: Japanese Tea Bowls](https://youtu.be/pSP6Ec7kJbo)
 * [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)
 * [Jiro Horikoshi](http://en.wikipedia.org/wiki/Jiro_Horikoshi)
 * [Japan Design: The Four Seasons in Design](http://amzn.com/0877013276) – Tanaka Ikko, Koike Kazuko
@@ -167,3 +173,11 @@ It's easy to take for granted the objects in our lives. What makes a high qualit
 * [The Life-Changing Magic of Tidying Up](http://amzn.com/1607747308) – Marie Kondo
 * [The Wind Rises](http://amzn.com/B00MHT49KO)
 * [Understanding the World's Greatest Structures](http://www.thegreatcourses.com/courses/understanding-the-world-s-greatest-structures-science-and-innovation-from-antiquity-to-modernity.html) (Available on Netflix)
+
+## Vocation and Personal Development
+
+### Mindful Leadership
+
+* [I'm Justin Rosenstein, Co-Founder of Asana, and This Is How I Work](http://lifehacker.com/im-justin-rosenstein-co-founder-of-asana-and-this-is-1783969267)
+* [The 15 Commitments of Conscious Leadership](https://amzn.com/B00R3MHWUE)
+* The Dalai Lama and Lady Gaga at the U.S. Conference of Mayors – [Video 1](https://youtu.be/eKfPM1jqdnc), [Video 2](https://youtu.be/ikBi_qVJKis?t=19m28s)
