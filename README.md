@@ -21,6 +21,26 @@ If you have your own reading lists or have any questions or comments, let me kno
 
 ## Web Development and Computer Science
 
+### Web Development: History and Philosophy
+
+The web is a field defined by the ideas and values of those who create it. This course explores the history of thought that has shaped the web and the philosophical debates visible in the design of the network, and connects those ideas to both the overall architects of the web and the day-to-day practitioners who define web culture through their words and code.
+
+* [Resilient Web Design](http://resilientwebdesign.com) – Jeremy Keith
+* [A Dao of Web Design](http://alistapart.com/article/dao)
+* [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+* [Web! What is it good for?](https://adactio.com/journal/9016)
+* [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+* [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
+* [The Innovators](http://amzn.com/147670869X) – Walter Isaacson
+
+### Code: Learning and Teaching Methods
+
+Exploring the best ways to learn and teach programming. Concepts and perspectives to guide students through their learning process and guide educators in designing their curriculum and developing their teaching methods.
+
+* [Mindstorms](http://a.co/0mJqzPd) – Seymour Papert
+* [Learnable Programming](http://worrydream.com/LearnableProgramming/)
+* [Swift Playgrounds & Creativity](https://ashfurrow.com/blog/swift-playgrounds-creativity/)
+
 ### The Free Web
 
 The World Wide Web is changing quickly. Nostalgia for the early days of the Internet and questions about the future freedom of information online are growing. What is the web today? How has it changed? What should it have been? What should it be in the future?
@@ -32,15 +52,6 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 * [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/)
-
-### Web Development: History and Philosophy
-
-The web is a field defined by the ideas and values of those who create it. This course explores the history of thought that has shaped the web and the philosophical debates visible in the design of the network, and connects those ideas to both the overall architects of the web and the day-to-day practitioners who define web culture through their words and code.
-
-* [Web! What is it good for?](https://adactio.com/journal/9016)
-* [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-* [A Dao of Web Design](http://alistapart.com/article/dao)
-* [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
 
 ### Artificial Intelligence, Technology, and Innovation
 
@@ -126,7 +137,7 @@ Tea is an essential cultural, philosophical, and daily influence around the worl
 * [Adagio](http://adagio.com)
 * [Samovar](http://www.samovartea.com)
 
-Final project: [Tea Guide](http://teaguide.co)
+Project: [Tea Guide](http://teaguide.co)
 
 ## Literature and History
 
@@ -178,6 +189,6 @@ It's easy to take for granted the objects in our lives. What makes a high qualit
 
 ### Mindful Leadership
 
-* [I'm Justin Rosenstein, Co-Founder of Asana, and This Is How I Work](http://lifehacker.com/im-justin-rosenstein-co-founder-of-asana-and-this-is-1783969267)
 * [The 15 Commitments of Conscious Leadership](https://amzn.com/B00R3MHWUE)
+* [I'm Justin Rosenstein, Co-Founder of Asana, and This Is How I Work](http://lifehacker.com/im-justin-rosenstein-co-founder-of-asana-and-this-is-1783969267)
 * The Dalai Lama and Lady Gaga at the U.S. Conference of Mayors – [Video 1](https://youtu.be/eKfPM1jqdnc), [Video 2](https://youtu.be/ikBi_qVJKis?t=19m28s)
