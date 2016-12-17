@@ -52,6 +52,7 @@ The World Wide Web is changing quickly. Nostalgia for the early days of the Inte
 * [All you need is publish](https://medium.com/message/this-is-how-we-publish-b050172dcb05)
 * [Raiders of the Lost Web](http://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 * [Goodbye, Native Mobile Apps](https://atavistinsider.atavist.com/goodbye-native-mobile-apps/)
+* [Whither the Webpage](https://theawl.com/how-does-it-look-d04fdd098b62#.t2ixf1hr8)
 
 ### Artificial Intelligence, Technology, and Innovation
 
@@ -120,6 +121,7 @@ The human experience of food ranges from bland, unmemorable meals to sublime, li
 * [Written Recipes Undergo a Makeover](http://www.nytimes.com/2015/10/14/dining/written-recipes-undergo-a-makeover.html)
 * [Like Advice from a Friend](http://www.nytimes.com/2015/01/07/dining/review-twelve-recipes-by-cal-peternell.html)
 * [Jeong Kwan, the Philosopher Chef](http://www.nytimes.com/2015/10/16/t-magazine/jeong-kwan-the-philosopher-chef.html?_r=0)
+* [Twelve Recipes](http://a.co/fLPMe8A)
 
 ### Exploring Tea
 
