@@ -28,6 +28,7 @@ The web is a field defined by the ideas and values of those who create it. This 
 * [Resilient Web Design](http://resilientwebdesign.com) – Jeremy Keith
 * [A Dao of Web Design](http://alistapart.com/article/dao)
 * [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+* [Hypertext as an Agent of Change](http://aworkinglibrary.com/writing/hypertext-as-an-agent-of-change/)
 * [Web! What is it good for?](https://adactio.com/journal/9016)
 * [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Web Design: The First 100 Years](http://idlewords.com/talks/web_design_first_100_years.htm)
